@@ -1,0 +1,10 @@
+jika ada error: 'chromedriver.exe' executable needs to be in PATH.
+maka diharuskan running didalam folder '1.scraping-yt'.
+penyebab masalah dari error tersebut adalah ketika terminal membuka didalam folder Tugas, jadi driver dari chrome tidak terdeteksi
+contoh :
+jika error ketika terminal sedang di = 'c:\users\tugas>'
+
+yang benar adalah buka terminal didalam = 'c:\users\1.scraping-yt>'
+jika posisi terminal nya sudah benar, maka file 'main.py' sudah bisa di running dengan lancar
+
+Terima Kasih ^_^
